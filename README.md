@@ -8,5 +8,6 @@
 
 ##其他
 资料会优先上传到[alist网盘上](https://alist.frium.top), 要是有急用的小伙伴可以上alist上找找,要是依然没有想要的结果可通过以下方式联系作者
-qq: 877385364@qq.com
-wx: Frium_
+
+- qq: 877385364@qq.com
+- wx: Frium_
